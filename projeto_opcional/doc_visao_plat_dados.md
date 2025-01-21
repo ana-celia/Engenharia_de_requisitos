@@ -4,7 +4,7 @@
 
 | Data                |  Versão             |          Descrição  |  Autores            |
 | -----------------   | -----------------   | -----------------   | -----------------   |
-| 25/12/2024 | 1.0 | Primeira versão | Ana Célia Baía Araújo | 
+| 21/12/2024 | 1.0 | Primeira versão | Ana Célia Baía Araújo | 
 
 ## 1. Objetivo do projeto
 
