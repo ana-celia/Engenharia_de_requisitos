@@ -29,48 +29,38 @@ Criar uma plataforma para integrar dados e informações produzidas a partir das
 
 ## 4. Descrição do ambiente dos usuários
 
-A plataforma terá como página inicial uma listagem 
+A plataforma terá como página inicial uma listagem de documentos (artigos científicos, legislações, documentos técnicos), arquivos (mapas, fotos, ilustrações esquemáticas, scripts, ferramentas metodológicas, entre outros) e bancos de dados disponíveis (planilhas, tabelas, entr outros), categorizados por temática, por projeto no qual estão vinculados e por pesquisadores responsáveis por produzir esse conteúdo.
 
 ## 5. Principais necessidades dos usuários
 
-Com base no formulário aplicado, que teve 94 respondentes, definimos as necessidades dos usuários a partir das seguintes análises de respostas, de forma que o produto a ser desenvolvido deverá superá-las  e estar alinhado aos fatores que percebemos poderão levar os usuários a utilizar nossa plataforma. Contatamos que:
-65% das pessoas que responderam já foram voluntários
-51% acreditam ser difícil achar ações voluntárias para ajudar
-95% consideram participar de alguma ação voluntária se forem apresentados
-E como principais fatores para escolha em participar de uma ação voluntária:
-73,4% “conhecer e confiar no projeto”
-59,6% “Ajudar pessoas/animais que precisam de ajuda”
-56,4% “Conhecer a história de quem estão ajudando”
+Aplicar e analisar respostas de um questionário para levantar as necessidades entre os pesquisadores do LISAT.
 
-
+REVISAR
 ## 6. Alternativas concorrentes
 
-Atualmente, redes sociais como “Instagram” são utilizadas por seus usuários para diversas finalidades, incluindo o público interessado em trabalhos voluntários, sendo necessário que quaisquer outras propostas, como esta plataforma, possam se conectar de alguma forma com esses canais (botões para compartilhamento de ações, plugins, etc…). Existem plataformas específicas para tal como uma das maiores aqui no Brasil, a “Atados” (focada em trabalhos específicos, com seção de ações, mas é ocasional, serve mais como banco de voluntários para ONGs cadastradas) e outra “Padrinhonota10”, voltada para apadrinhamento de crianças e jovens em abrigos e afins, porém tem pouca aplicação para outros tipos de voluntariado. Algumas plataformas como “Vakinha” online ou “Catarse” promovem financiamento coletivo, muito utilizado em campanhas para arrecadação financeira, porém são muito limitadas à outros tipos de trabalhos.
 
 ## 7. Visão geral do produto
 
-A Plataforma QAjuda será um produto de acesso para toda a sociedade, com recursos de usabilidade que considerem premissas de acessibilidade e interface intuitiva. A proposta é integrar e proporcionar um ambiente para interação entre indivíduos entre si, comunidades e instituições como OSCIPs/ONGs que desenvolvam/tenham interesse em trabalhos voluntários. O produto poderá dispor aos usuários um catálogo de ações e informações sobre esses trabalhos, que deverá ser continuamente atualizado a partir do uso da Plataforma, de forma que a divulgação de ações, pela integração com redes sociais e outros links, poderá atrair novos usuários e ampliar as redes de atuação dos trabalhos voluntários propostos.
+A Plataforma Dados-SAT será um produto de acesso para toda a sociedade, com recursos de usabilidade que considerem premissas de acessibilidade e interface intuitiva. A proposta é integrar e proporcionar um ambiente para interação entre pesquisadores, mas também comunidades e gestores públicos. O produto poderá dispor aos usuários um catálogo de produtos desenvolvidos a partir dos trabalhos dos pesquisadores do LISAT, que deverá ser continuamente atualizado a partir do uso da Plataforma diretamente pelos autores, visando ampliar a divulgação das produções científicas no âmbito do Laboratório.
 
 ## 8. Requisitos funcionais
 
 | Código              |  Nome               |          Descrição  |  Prioridade         |
 | -----------------   | -----------------   | -----------------   | -----------------   |
-|  F01  |  Login  |  O usuário tem acesso ao sistema.  | -  |
-| F02  | Cadastro de Ações | O Colaborador cadastra uma ação de trabalho voluntário  |  - |
-| F03  | Cadastro de colaboradores | Visitante pode se cadastrar na plataforma | - |
-| F04  | Gerenciamento de Ações | Administrador gerencia ações disponíveis e responsável gerencia a própria ação (atualizar e remover) | - | 
-| F05  | Gerenciamento de Colaboradores | Administrador gerencia usuários da plataforma (atualizar e remover) | - |
-| F06  | Busca de Ações | usuários pesquisam ações disponíveis | Alta | 
-| F09  | Visualização de Ações | usuários podem visualizar ações disponíveis | Alta | 
-| F10  | Avaliação de Ações | Permite que Colaboradores que participaram avaliem (com critérios a definir como resultados obtidos, pontualidade, efetividade, etc) a ação ocorrida | Média |
-| F11  | Denuncia de Ações | usuário alerta os admins sobre questões de segurança da ação elencadas na RN06 | - |
-| F12  | Denuncia de Usuário | usuário alerta os administradores sobre questões de segurança elencadas na RN07 | - |
-| F13  | Autorização de colaborador em ação | Responsável da ação aceita os Colaboradores que solicitaram participar da ação | Alta |
-| F14  | Cadastro do Voluntário em uma ação | Colaborador solicita aos responsáveis de uma ação para participar da mesma | Alta |
-| F15  | Logout | usuário sai do sistema | - |
+| F01  |  Login  |  O usuário tem acesso ao sistema.  | -  |
+| F02  | Cadastro de Projetos | O Colaborador cadastra uma ação de trabalho voluntário  |  - |
+| F03  | Cadastro de Pesquisadores | Visitante pode se cadastrar na plataforma | - |
+| F04  | Gerenciamento de conteúdo | Administrador gerencia arquivos disponíveis (atualizar e remover) | - | 
+| F05  | Gerenciamento de usuários | Administrador gerencia usuários da plataforma (atualizar e remover) | - |
+| F06  | Busca de produtos | usuários pesquisam produtos disponíveis | Alta | 
+| F07  | Visualização de Produtos | usuários podem visualizar produtos disponíveis | Alta | 
+| F08  | Cadastro do usuário como pesquisador em uma pesquisa |  Responsável do produto inclui usuário para gerenciar o produto | Alta |
+| F09  | Logout | usuário sai do sistema | - |
 
 
 
+
+REVISAR
 ## 9. Requisitos não-funcionais
 
 | Código              |  Nome               |          Descrição  |  Categoria          |  Classificação      |
