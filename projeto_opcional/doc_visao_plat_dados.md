@@ -45,17 +45,17 @@ A Plataforma Dados-SAT será um produto de acesso para toda a sociedade, com rec
 
 ## 8. Requisitos funcionais
 
-| Código              |  Nome               |          Descrição  |  Prioridade         |
-| -----------------   | -----------------   | -----------------   | -----------------   |
+| Código              |  Nome               |          Descrição  |  
+| -----------------   | -----------------   | -----------------   | 
 | F01  |  Login  |  O usuário tem acesso ao sistema.  | -  |
-| F02  | Cadastro de Projetos | O Colaborador cadastra uma ação de trabalho voluntário  |  - |
-| F03  | Cadastro de Pesquisadores | Visitante pode se cadastrar na plataforma | - |
-| F04  | Gerenciamento de conteúdo | Administrador gerencia arquivos disponíveis (atualizar e remover) | - | 
-| F05  | Gerenciamento de usuários | Administrador gerencia usuários da plataforma (atualizar e remover) | - |
-| F06  | Busca de produtos | usuários pesquisam produtos disponíveis | Alta | 
-| F07  | Visualização de Produtos | usuários podem visualizar produtos disponíveis | Alta | 
-| F08  | Cadastro do usuário como pesquisador em uma pesquisa |  Responsável do produto inclui usuário para gerenciar o produto | Alta |
-| F09  | Logout | usuário sai do sistema | - |
+| F02  | Cadastro de Projetos | O Colaborador cadastra uma ação de trabalho voluntário  |
+| F03  | Cadastro de Pesquisadores | Visitante pode se cadastrar na plataforma | 
+| F04  | Gerenciamento de conteúdo | Administrador gerencia arquivos disponíveis (atualizar e remover) |
+| F05  | Gerenciamento de usuários | Administrador gerencia usuários da plataforma (atualizar e remover) | 
+| F06  | Busca de produtos | usuários pesquisam produtos disponíveis |
+| F07  | Visualização de Produtos | usuários podem visualizar produtos disponíveis |
+| F08  | Cadastro do usuário como pesquisador em uma pesquisa |  Responsável do produto inclui usuário para gerenciar o produto | 
+| F09  | Logout | usuário sai do sistema | 
 
 
 
