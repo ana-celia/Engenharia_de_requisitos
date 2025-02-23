@@ -4,7 +4,7 @@
 
 | Id              |  Requisito               |          Estado  |  
 | -----------------   | -----------------   | -----------------   | 
-| F01  |  Login  |    |
+| F01  |  Login  |  Em desenvolvimento   |
 | F02  | Cadastro de Projetos |  Em desenvolvimento   |
 | F03  | Cadastro de Pesquisadores |  Em desenvolvimento  | 
 | F04  | Gerenciamento de conteúdo |  Em desenvolvimento  |
